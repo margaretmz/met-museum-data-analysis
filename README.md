@@ -1,7 +1,7 @@
 # The Metropolitan Museum of Art - Data Analysis and Visualization
 
 <p align="center">
-    <img src="met_image.png" alt="MET Data Analysis and Visualization">
+    <img src="met_image.png" alt="MET Data Analysis and Visualization" width=75%>
 </p>
 
 This notebook contains data analysis of the artists and artworks of the Metropolitan Museum of Art. 
