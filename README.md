@@ -22,7 +22,11 @@ I use Colab notebook which comes with the following pre-installed:
 * Seaborn
 
 ## Acknowledgements
-The metadata file is available on Kaggle [here](https://www.kaggle.com/metmuseum/the-metropolitan-museum-of-art-open-access).   
-I downloaded the latest metadata csv file from GitHub [here](https://github.com/metmuseum/openaccess).  
+I would like to thank the Metropolitan Museum of Art for making available their open access images in the public domain, and the metadata file about the artists and artworks.
+
+The metadata `MetObjects.csv` file is available on Kaggle [here](https://www.kaggle.com/metmuseum/the-metropolitan-museum-of-art-open-access).   
+
+I downloaded the latest version of the metadata `MetObjects.csv` file from the Metropolitan Museum of Art GitHub repo [here](https://github.com/metmuseum/openaccess).
+
 Images were downloaded from the Metropolitan Museum of Art website [here](https://www.metmuseum.org/art/collection).
 
