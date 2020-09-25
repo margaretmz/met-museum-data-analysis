@@ -1,7 +1,10 @@
-# The Metropolitan Museum of Art 
-## - Data Analysis and Visualization
+# The Metropolitan Museum of Art - Data Analysis and Visualization
 
-The notebook contains data analysis of the artists and artworks of the Metropolitan Museum of Art. 
+<p align="center">
+    <img src="met_image.png" alt="MET Data Analysis and Visualization">
+</p>
+
+This notebook contains data analysis of the artists and artworks of the Metropolitan Museum of Art. 
 
 ## Project motivation
 As I’m interested in using AI for art, analyzing the artist and artwork metadata of the Metropolitan Museum of Art helps me choose datasets for computer vision tasks.
