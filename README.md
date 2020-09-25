@@ -6,6 +6,9 @@ The notebook contains data analysis of the artists and artworks of the Metropoli
 ## Project motivation
 As I’m interested in using AI for art, analyzing the artist and artwork metadata of the Metropolitan Museum of Art helps me choose datasets for computer vision tasks.
 
+## Medium Blog Post
+The Medium blog I wrote is posted [here](https://medium.com/@margaretmz/metropolitan-museum-of-art-data-analysis-visualization-ea2f63c3fa04).
+
 
 ## Installation
 I use Colab notebook which comes with the following pre-installed:
