@@ -4,7 +4,7 @@
     <img src="met_image.png" alt="MET Data Analysis and Visualization" width=75%>
 </p>
 
-This notebook contains data analysis of the artists and artworks of the Metropolitan Museum of Art. 
+This [notebook](https://github.com/margaretmz/met-museum-data-analysis/blob/master/Met_Art_Data_Analysis.ipynb) contains data analysis of the artists and artworks of the Metropolitan Museum of Art. 
 
 ## Project motivation
 As I’m interested in using AI for art, analyzing the artist and artwork metadata of the Metropolitan Museum of Art helps me choose datasets for computer vision tasks.
